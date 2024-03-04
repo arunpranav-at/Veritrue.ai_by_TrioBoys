@@ -1,4 +1,4 @@
-![Screenshot 2024-03-04 104523](https://github.com/arunpranav-at/Veritrue.ai_by_TrioBoys/assets/115616429/e4b2cbc6-fb41-4b0c-85f5-1e2dd00b0c6b)# Veritrue.ai_by_TrioBoys
+# Veritrue.ai_by_TrioBoys
 A comprehensive platform named Veritrue.ai which takes in various input formats like video, image, audio and predicts whether it is a deepfake or a real one.
 
 # Frontend Dashboard
